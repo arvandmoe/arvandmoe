@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad khaki</h1>
 <h3 align="left">A passionate android developer from Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdkhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhaki" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mdkhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhaki" /> </p>
 
 - 🔭 I’m currently working on [MdNews - Flutter News App](https://github.com/Mdkhaki/MdNews)
 
