@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **flutter and dart**
 
-- 📫 How to reach me **mdkhaki@yahoo.com**
+- 📫 How to reach me **mdkhaki10@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
