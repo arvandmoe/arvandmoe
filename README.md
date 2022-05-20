@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammad khaki</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="start"> <img src="https://komarev.com/ghpvc/?username=mdkhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhaki" /> </p>
 
 - 🔭 I’m currently working on [Diginext](https://github.com/Mdkhaki/diginext)
+ 
 ![diginext](/images/diginext.jpg)
 
 - 🌱 I’m currently learning **Docker, GraphQL**
