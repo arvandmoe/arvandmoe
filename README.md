@@ -4,7 +4,8 @@
 <p align="start"> <img src="https://komarev.com/ghpvc/?username=mdkhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhaki" /> </p>
 
 - 🔭 I’m currently working on [Diginext](https://github.com/Mdkhaki/diginext)
-![diginext](/images/diginext.jpg)
+
+![diginext](/images/diginext.png)
 
 - 🌱 I’m currently learning **Docker, GraphQL**
 
