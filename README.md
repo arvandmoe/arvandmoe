@@ -18,10 +18,6 @@
       </a>
     </div>
 
-- 🔭 I’m currently working on [Diginext](https://github.com/Mdkhaki/diginext)
-
-![diginext](/images/diginext.png)
-
 - 🌱 I’m currently learning **Docker, GraphQL**
 
 - 💬 Ask me about **Golang and Typescript**
