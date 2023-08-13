@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Khaki</h1>
+<h1 align="center">Hi 👋, I'm Moe Arvand</h1>
 
 ![diginext](/images/cover.png)
 
