@@ -18,7 +18,7 @@
       </a>
     </div>
 
-- 🌱 I’m currently learning **Docker, GraphQL**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Golang and Typescript**
 
