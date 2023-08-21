@@ -4,7 +4,7 @@
 
 <p align="start"> <img src="https://komarev.com/ghpvc/?username=mdkhaki&label=Profile%20views&color=0e75b6&style=flat" alt="mdkhaki" /></p>
 
-<h3 align="center">Frontend Developer - TS | Golang❤️</h3>
+<h3 align="center">Frontend Developer - Typescript | React | Nextjs</h3>
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" width="100" height="100" /></div>
