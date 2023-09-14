@@ -23,3 +23,7 @@
 - 💬 Ask me about **Golang and Typescript**
 
 - 📫 How to reach me **arvandmoe@gmail.com**
+<br />
+<div align="center">
+   <img src="https://leetcode.card.workers.dev/arvandmoe?theme=auto&font=baloo&extension=activity&cache=0" alt="Moe Arvand's Leetcode stats">
+</div>
