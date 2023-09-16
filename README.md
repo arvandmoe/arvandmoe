@@ -17,7 +17,15 @@
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
       </a>
     </div>
+    
+<br />
 
+<div align="center"  width="100%">
+   <a align="center" href="https://leetcode.com/arvandmoe/">
+      <img src="https://leetcode.card.workers.dev/arvandmoe?theme=auto&cache=0" alt="Moe Arvand's Leetcode stats">
+   </a>
+</div>    
+    
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Golang and Typescript**
@@ -25,7 +33,5 @@
 - 📫 How to reach me **arvandmoe@gmail.com**
 <br />
 <div align="center">
-   <a href="https://leetcode.com/arvandmoe/">
-      <img src="https://leetcode.card.workers.dev/arvandmoe?theme=auto&font=baloo&extension=activity&cache=0" alt="Moe Arvand's Leetcode stats">
-   </a>
+  <img width="100%" src="https://stackoverflow-card.vercel.app/?userID=13375401&theme=stackoverflow-dark" alt="Moe Arvand's Stackoverflow stats">
 </div>
